@@ -1,19 +1,24 @@
 # airline-management
 1.
 КАК ЗАПУСТИТЬ:
+
+запустить	
+-----------
 скачать/разархивировать
 через 'intelij' открыть	
 в application.properties отредактировать:	
 spring.datasource.url=jdbc:mysql://localhost:3306/ ---DATABASE_NAME--- ?useSSL=false	
-spring.datasource.password=---PASSWORD---	
-запустить	
------------
 
+spring.datasource.password=---PASSWORD---	
+ 
+ 
 ПОДКЛЮЧИТЬ DB:
 в папке /data найти три файла 
 
 air_company.csv
+
 airplane.csv
+
 flight.csv
 
 через MySQLWorkbench создать (new_schema)
