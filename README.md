@@ -28,6 +28,12 @@ flight.csv
 
 
 
+(HEROKU)
+ps.если с импортом .csv файлов ничего не вышло в application.properties закоментировать ненужное подключение и разкоментировать подключение к серверу
+ИЛИ просто открыть постман и импортировать REMOTEtestAirCompaniesManagementSystem  для https://airlines-management.herokuapp.com/
+
+
+
 
 
 
